@@ -14,6 +14,13 @@
 
 ---
 
+## 🎥 Demo
+
+Watch a quick demo of SequelFlow in action:  
+[SequelFlow Demo Video](https://drive.google.com/file/d/1xznU7cIXMCFD-3RedbOO_M3icZou6H_w/view?usp=drive_link)
+
+---
+
 ## 🛠️ Technology Stack
 
 SequelFlow is built with modern, industry-standard technologies to ensure scalability, performance, and maintainability:
