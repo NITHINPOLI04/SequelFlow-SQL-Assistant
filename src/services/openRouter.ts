@@ -18,7 +18,7 @@ export async function getSQLFromNaturalLanguage(
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
-      model: 'mistralai/devstral-small:free',
+      model: 'mistralai/devstral-2512:free',
       messages: [
         {
           role: 'system',
